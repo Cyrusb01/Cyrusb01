@@ -3,6 +3,7 @@
 <a href="https://www.linkedin.com/in/cyrus-buhariwalla-2012461a8/">
   <img align="left" alt="Cyrus's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
+<br />
 
 Hi, I'm Cyrus Buhariwalla. I am in my 3rd year of my Computer Science degree and am an aspiring Quant. I am very interested in crypto and quantitative finance, which is why most of my experience and projects look a little different than the average CS student. 
 
