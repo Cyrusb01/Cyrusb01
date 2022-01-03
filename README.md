@@ -26,4 +26,4 @@ me.introduce_myself()
 <br />
 
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=cyrusb01&show_icons=true&theme=gotham" alt="cyrusb01" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=cyrusb01&show_icons=true&theme=gotham&count_private=true" alt="cyrusb01" />
