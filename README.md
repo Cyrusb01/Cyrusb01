@@ -19,7 +19,7 @@ class Cyrus:
         self.hobbies = ["Rock Climbing", "Tennis", "Cooking", "Crypto", "Quant Trading"] 
 
     def introduce_myself(self):
-        print(f"Hi, I'm {self.name} and am an {self.role}. Thanks for stopping by, if you're interested in seeing some of my work go check out my projects!")
+        print(f"Hi, I'm {self.name} and am an {self.role}. Thanks for stopping by!")
 
 
 me = Cyrus()
