@@ -7,7 +7,7 @@ class Cyrus:
 
     def __init__(self):
         self.name = "Cyrus Buhariwalla"
-        self.role = "Aspiring Quant Developer"
+        self.role = "Quant Developer"
         self.languages = ["Python", "C++", "SQL", "HTML", "CSS"]
         self.hobbies = ["Rock Climbing", "Tennis", "Cooking", "Crypto", "Quant Trading"] 
 
