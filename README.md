@@ -18,12 +18,3 @@ class Cyrus:
 me = Cyrus()
 me.introduce_myself()
 ```
-
-<a href="https://www.linkedin.com/in/cyrus-buhariwalla-2012461a8/">
-  <img align="left" alt="Cyrus's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
-
-<br />
-
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=cyrusb01&show_icons=true&theme=gotham&count_private=true" alt="cyrusb01" />
